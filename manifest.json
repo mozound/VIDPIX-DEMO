@@ -1,5 +1,5 @@
 {
-  "name": "VIDPX Monitor DEMO",
+  "name": "VIDPIX Monitor DEMO",
   "short_name": "VIDPX Demo",
   "description": "Pixel Resolution Calculator & Output Engine — overlays, test patterns, NDI/HDMI pipeline",
   "id": "vidpx-monitor-demo",
