@@ -1,4 +1,4 @@
-# VIDPX Monitor
+# VIDPIX Monitor
 
 **Pixel Resolution Calculator & Output Engine**
 
