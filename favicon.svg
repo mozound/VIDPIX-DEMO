@@ -38,7 +38,7 @@
   <line x1="360" y1="120" x2="360" y2="108" stroke="#00e8ff" stroke-width="2" opacity="0.5"/>
   <line x1="400" y1="120" x2="400" y2="112" stroke="#00e8ff" stroke-width="1.5" opacity="0.3"/>
   <!-- PX text -->
-  <text x="256" y="420" text-anchor="middle" font-family="monospace" font-weight="700" font-size="72" fill="#00e8ff" letter-spacing="8">VIDPX</text>
+  <text x="256" y="420" text-anchor="middle" font-family="monospace" font-weight="700" font-size="72" fill="#00e8ff" letter-spacing="8">VIDPIX</text>
   <!-- Subtle scan line effect -->
   <rect x="80" y="160" width="352" height="1" fill="#00e8ff" opacity="0.06"/>
   <rect x="80" y="200" width="352" height="1" fill="#00e8ff" opacity="0.06"/>
