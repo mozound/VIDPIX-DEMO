@@ -1,8 +1,8 @@
 {
   "name": "VIDPIX Monitor DEMO",
-  "short_name": "VIDPX Demo",
+  "short_name": "VIDPIX Demo",
   "description": "Pixel Resolution Calculator & Output Engine — overlays, test patterns, NDI/HDMI pipeline",
-  "id": "vidpx-monitor-demo",
+  "id": "vidpix-monitor-demo",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
