@@ -1,4 +1,4 @@
-const CACHE_NAME = 'vidpx-demo-v28';
+const CACHE_NAME = 'vidpx-demo-v29';
 const ASSETS = [
   './',
   './index.html',
